@@ -1,12 +1,24 @@
-## Hi there 👋
+## Bonjour toi ! 👋
 
-<!--
+# Équipe Développement Web de Bordeaux Ynov Campus 👨‍💻👩‍💻
 
-**Here are some ideas to get you started:**
+Bienvenue dans la présentation de notre équipe de développement web à Bordeaux Ynov Campus ! 🎉
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Qui sommes-nous ? 🤔
+
+Nous sommes un groupe de passionnés de développement web, composé d'alternants talentueux et motivés. Notre objectif est de créer des projets innovants et de repousser les limites de la technologie et améliorer le confort de vie des étudiants.
+
+## Nos projets 🚀
+
+### Ynov Event 🎪
+
+[Ynov Event](https://github.com/ynovcampus/YnovEvent) est notre projet phare ! Il s'agit d'une plateforme de gestion d'événements en ligne, conçue pour simplifier l'organisation et la participation à des événements. Que ce soit des conférences, des ateliers ou des rencontres, Ynov Event est là pour vous faciliter la vie !
+
+## Notre équipe 🌐
+
+- [Anthony C.]()
+- [Costa C.]()
+- [Luka G.]()
+- [Luc G.]()
+- [Thomas E.]()
+- [Valentin D.]()
