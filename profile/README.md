@@ -18,7 +18,6 @@ Nous sommes un groupe de passionnés de développement web, composé d'alternant
 
 - [Anthony C.]()
 - [Costa C.]()
-- [Luka G.]()
 - [Luc G.]()
 - [Thomas E.]()
 - [Valentin D.]()
