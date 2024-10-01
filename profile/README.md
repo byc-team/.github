@@ -16,6 +16,6 @@ Nous sommes un groupe de passionnés de développement web, composé d'alternant
 
 ## Notre équipe 🌐
 
-- [Anthony C.]()
-- [Costa C.]()
+- [Anthony C.](https://github.com/Kuseraga-git)
+- [Costa R.](https://github.com/Hyuga974)
 - [Valentin D.](https://vdautrement.fr/)
