@@ -18,4 +18,4 @@ Nous sommes un groupe de passionnés de développement web, composé d'alternant
 
 - [Anthony C.]()
 - [Costa C.]()
-- [Valentin D.]()
+- [Valentin D.](https://vdautrement.fr/)
